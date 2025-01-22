@@ -1,0 +1,29 @@
+.nav-tabs .nav-link {
+    background-color: #d9e5ef !important;
+    color: #000105 ; 
+    font-size: 18px; 
+    padding: 10px; 
+    width: 45vw;
+    display: block;
+    align-items: center;
+    text-align: center;
+    border: 1px solid black; 
+    border-radius: 2px; 
+}
+
+.nav-tabs .nav-link.active {
+    background-color: #053e70 !important;
+    color: white !important; 
+    font-size: 18px; 
+    padding: 10px; 
+    width: 45vw;
+    display: block;
+    align-items: center;
+    text-align: center;
+    border: 1px solid rgb(68, 65, 65); 
+}
+
+.justify-content-center .nav-tabs {
+    justify-content: center;
+}
+
