@@ -19,7 +19,7 @@ This project is titled **Learn AI and Data Science** and focuses on building an 
 - **Information Retrieval Models**:
   - **Vector Space Model (VSM)**: Uses TF-IDF and cosine similarity to rank documents.
   - **Query Likelihood Model (QLM)**: Uses language models and smoothing techniques for probabilistic ranking.
-- **User Interface**: A Streamlit-based application with tabs for VSM and QLM results.
+- **User Interface**: A dash based application with tabs for VSM and QLM results.
 
 ---
 
